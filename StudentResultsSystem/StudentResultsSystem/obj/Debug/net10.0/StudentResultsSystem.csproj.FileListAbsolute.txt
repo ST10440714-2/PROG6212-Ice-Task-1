@@ -1,0 +1,14 @@
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\StudentResultsSystem.exe
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\StudentResultsSystem.deps.json
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\StudentResultsSystem.runtimeconfig.json
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\StudentResultsSystem.dll
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\StudentResultsSystem.pdb
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\StudentResultsSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\StudentResultsSystem.AssemblyInfoInputs.cache
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\StudentResultsSystem.AssemblyInfo.cs
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\StudentResultsSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\StudentResultsSystem.dll
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\refint\StudentResultsSystem.dll
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\StudentResultsSystem.pdb
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\StudentResultsSystem.genruntimeconfig.cache
+C:\Users\Tyler Sydney\Desktop\Varsity College\Year 2\Semester 2\PROG6212\Projects\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\ref\StudentResultsSystem.dll
